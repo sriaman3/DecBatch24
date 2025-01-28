@@ -1,0 +1,1 @@
+{"uuid":"f07fc0c3-304f-46a1-8551-7936a1159429","name":"pomodel.AccountTest","children":["e8de45d9-5ef9-4abe-ae2f-8f7d46483fb2"],"befores":[{"name":"accLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737767602492,"stop":1737767603508}],"afters":[],"start":1737767596524,"stop":1737767603763}
