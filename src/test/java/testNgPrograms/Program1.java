@@ -23,6 +23,8 @@ public class Program1 {
 	@BeforeSuite
 	public void beforeSuite() {
 		System.out.println("am before suite");
+
+		System.out.println("Am aman");
 	}
 	
 	@BeforeTest
