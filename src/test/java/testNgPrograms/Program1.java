@@ -28,6 +28,7 @@ public class Program1 {
 	@BeforeTest
 	public void beforeTest() {
 		System.out.println("am before test");
+		System.out.println("am raj");
 	}
 	
 	@BeforeClass
